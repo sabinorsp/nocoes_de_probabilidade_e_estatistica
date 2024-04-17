@@ -6,6 +6,7 @@ Todos os resumos e notas tomadas assim como exercicios realizados fazem parte do
 As organizações das notas estão divididas por arquivos jupter-notebook separados para cada capitulo.  
 
 Capitulo 1: capitulo-1.ipynb  
+
 ## Versão Python
 3.12.1
 
